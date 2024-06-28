@@ -18,4 +18,4 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-be
 
 7º para entrar no traccar, acesse o localhost:8082 e crie seu usuário e senha;
 
-![Print do sistema com os dispositivos](https://imgur.com/a/ItvHvkM)
+<img src="https://imgur.com/a/ItvHvkM" alt="print do sistema com os dispositivos" />
