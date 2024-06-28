@@ -17,3 +17,5 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-be
 6º Pronto, o traccar está instalado e rodando no Docker no seu WSL2;
 
 7º para entrar no traccar, acesse o localhost:8082 e crie seu usuário e senha;
+
+![Print do sistema com os dispositivos](https://imgur.com/a/ItvHvkM)
