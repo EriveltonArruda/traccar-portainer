@@ -18,4 +18,5 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-be
 
 7º para entrar no traccar, acesse o localhost:8082 e crie seu usuário e senha;
 
+Print com o traccar rodando com os dispositivos de rastreio
 <img src="assets/Print-para-readme.png" src="print dispositivos" />
